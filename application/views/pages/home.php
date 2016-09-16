@@ -131,7 +131,7 @@
 						</div>
 					</div>
 					<div class="btn-container text-center">
-						<a href="https://vapebox.typeform.com/to/FgK15I" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
+						<a href="https://vapebox.typeform.com/to/FgK15I" target="_blank" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
 					</div>
 				</div>
 			</div>
@@ -155,7 +155,7 @@
 					</div>
 
 					<div class="btn-container text-center">
-						<a href="https://vapebox.typeform.com/to/FgK15I" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
+						<a href="https://vapebox.typeform.com/to/FgK15I" target="_blank" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
 					</div>
 				</div>
 			</div>
@@ -180,7 +180,7 @@
 					</div>
 
 					<div class="btn-container text-left">
-						<a href="https://vapebox.typeform.com/to/FgK15I" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
+						<a href="https://vapebox.typeform.com/to/FgK15I" target="_blank" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
 					</div>
 				</div>
 			</div>
