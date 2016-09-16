@@ -273,7 +273,6 @@ nav a {
     letter-spacing: 1px;
 }
 
-
 /***********************/
 /***** Home Page *******/
 /***********************/
@@ -313,7 +312,7 @@ section.home {
     background: linear-gradient(to bottom right, rgba(0, 210, 255, 0.2), rgba(157, 114, 199, 0.5)), url('../images/banner-home.jpg'); /* Standard syntax */
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: top center;
+	background-position: top right 25%;
 }
 
 .home .title-container h1 {
@@ -462,6 +461,11 @@ section.plans .title-container h2 {
 
 section.plans .title-container h4 {
 	font-weight: 100;
+    line-height: 1.5em;
+}
+
+.plans .delivery h4 {
+	color: #eee; 
     line-height: 1.5em;
 }
 

@@ -179,11 +179,14 @@
 						</div>
 					</div>
 
-					<div class="btn-container text-left">
+					<div class="btn-container text-center">
 						<a href="https://vapebox.typeform.com/to/FgK15I" target="_blank" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
 					</div>
 				</div>
 			</div>
+		</div>
+		<div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 text-center delivery">
+			<h4 class="col-xs-12 col-sm-8 col-sm-offset-2"><i class="fa fa-truck"></i> VapeBox ships FREE within Metro Manila, just add P100 for provincial deliveries.</h4>
 		</div>
 	</div>
 </section>

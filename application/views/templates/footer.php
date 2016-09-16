@@ -2,7 +2,7 @@
 			<div class="footer-main row">
 				<div class="col-xs-12 col-md-3 col-md-offset-1">
 					<img src="<?php echo base_url("assets/images/vapebox-logo-colored.png"); ?>" alt="VapeBox PH" class="img-responsive footer-logo" />
-					<p>VapeBox helps vapers keep the better habit of vaping, and make sure they get access to premium quality e-juices anytime, anywhere.</p>
+					<p>VapeBox helps vapers keep the better habit of vaping, by making sure that they get access to premium quality e-juices anytime, anywhere.</p>
 					<ul class="list-none contacts">
 						<li>Landline: (632) 587 1388</li>
 						<li>Mobile: (63) 917 537 8250</li>
