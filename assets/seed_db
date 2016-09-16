@@ -1,0 +1,49 @@
+CREATE TABLE listing (
+    listing_id int(11) NOT NULL AUTO_INCREMENT,
+    title varchar(128) NOT NULL,
+    slug varchar(128) NOT NULL,
+	bed int(2),
+	bath int(2),
+    description text,
+    bid_array text,
+    image_array text,
+    full_address varchar(128) NOT NULL,
+    condominium varchar(128),
+	city_id int(5),
+    region_id int(5),
+    status varchar(10),
+    date_added datetime,
+    date_modified datetime,
+    PRIMARY KEY (listing_id),
+    KEY slug (slug)
+);
+
+CREATE TABLE city {
+    city_id int(5) NOT NULL AUTO_INCREMENT,
+    region_id int(5),
+    name varchar(20)
+}
+CREATE TABLE city {
+    region_id int(5) NOT NULL AUTO_INCREMENT,
+    name varchar(20)
+}
+
+CREATE TABLE listing_images (
+    listing_image_id int(11) NOT NULL AUTO_INCREMENT,
+    listing_id int(11) NOT NULL,
+    caption text,
+    image varchar(128) NOT NULL,
+    type varchar(10) NOT NULL,
+    sort_order int(3) NOT NULL,
+    PRIMARY KEY (listing_image_id),
+);
+
+CREATE TABLE bid (
+    listing_image_id int(11) NOT NULL AUTO_INCREMENT,
+    listing_id int(11) NOT NULL,
+    caption text,
+    image varchar(128) NOT NULL,
+    type varchar(10) NOT NULL,
+    sort_order int(3) NOT NULL,
+    PRIMARY KEY (listing_image_id),
+);

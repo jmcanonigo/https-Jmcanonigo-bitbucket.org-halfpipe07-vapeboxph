@@ -1,0 +1,19 @@
+{
+  "name": "RedlistGrunt",
+  "version": "0.1.0",
+  "author": "Rachelle Uy",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-cssc": "*"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0",
+    "slideout": "^0.1.12"
+  }
+}
