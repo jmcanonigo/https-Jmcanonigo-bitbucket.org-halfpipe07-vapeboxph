@@ -3,7 +3,7 @@
 		<div class="col-xs-12 col-md-7 col-md-offset-1">
 			<h1>Best E-Juices Delivered to your Doorstep Monthly.</h1>
 			<h3>Find new flavors you'll love without leaving your home.</h3>
-			<div><a href="#order" class="btn btn-yellow btn-lg m-t-sm">Order Now</a></div>
+			<div><a href="#order" class="btn btn-yellow btn-lg m-t-sm">Pre-Order Now</a></div>
 		</div>
 	</div>
 </section>

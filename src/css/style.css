@@ -464,6 +464,10 @@ section.plans .title-container h4 {
     line-height: 1.5em;
 }
 
+.plans .delivery {
+	margin-top: 30px;
+}
+
 .plans .delivery h4 {
 	color: #eee; 
     line-height: 1.5em;
