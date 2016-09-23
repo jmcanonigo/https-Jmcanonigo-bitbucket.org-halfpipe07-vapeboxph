@@ -515,6 +515,11 @@ section.plans .title-container h4 {
 	margin-bottom: 15px;
 }
 
+.plan .subnote {
+	line-height: 1.3em;
+	color: #999;
+}
+
 .plan-big .content {
 	padding: 16px;
 }

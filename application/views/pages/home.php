@@ -129,6 +129,7 @@
 							<span class="price">399</span>
 							<span class="month"> / mo</span>
 						</div>
+						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>
 					<div class="btn-container text-center">
 						<a href="https://vapebox.typeform.com/to/FgK15I" target="_blank" class="btn btn-md">Get Started <i class="fa fa-chevron-right"></i></a>
@@ -152,6 +153,7 @@
 							<span class="price">550</span>
 							<span class="month"> / mo</span>
 						</div>
+						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>
 
 					<div class="btn-container text-center">
@@ -177,6 +179,7 @@
 							<span class="price">1,450</span>
 							<span class="month"> / mo</span>
 						</div>
+						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>
 
 					<div class="btn-container text-center">
