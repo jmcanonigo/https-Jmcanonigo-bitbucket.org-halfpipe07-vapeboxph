@@ -1,5 +1,58 @@
 (function( self, undefined) {
 
+    var getQueryVariable = function(variable) {
+           var query = window.location.search.substring(1);
+           var vars = query.split("&");
+           for (var i=0;i<vars.length;i++) {
+                   var pair = vars[i].split("=");
+                   if(pair[0] == variable){return pair[1];}
+           }
+           return(false);
+    }
+
+  var cookie_func = {
+    create: function(name, value, hours) {
+        var date = new Date();
+        date.setTime(date.getTime()+(hours*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+
+        document.cookie = name+"="+value+expires+"; path=/";
+    },
+    get: function(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i = 0; i <ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length,c.length);
+            }
+        }
+        return "";
+    }
+  };
+
+  var linkRef = function() {
+    var ref_id = getQueryVariable('ref_id') || cookie_func.get('vbox_ref_id') || "";
+
+    if(!!getQueryVariable('ref_id')) {
+        cookie_func.create('vbox_ref_id', getQueryVariable('ref_id'), 24);
+    }
+
+    //assign referral
+    var plan_sample = document.getElementsByClassName('plan');
+    var typeform_link = plan_sample[0].querySelector('a').getAttribute('href');
+
+    if(!!ref_id) {
+      for (i=0; i < 3; i++) {
+        plan_sample[i].querySelector('a').setAttribute('href', typeform_link + "?ref_id=" + ref_id);
+      }
+    }
+    
+  };
+
   self.initMap = function() {
     var map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 14.6033799, lng: 121.0454897},
@@ -46,6 +99,9 @@
       vidModal.setAttribute('src', newSrc);
       modal.open();
     });
+
+    // link to referral
+    linkRef();
 
     // document.getElementsByTagName('body')[0].classList.add('loaded');
 
