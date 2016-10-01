@@ -433,7 +433,7 @@ section.subsection .video:hover::after {
 }
 
 .why img {
-	width: 100% ;
+	width: 100%;
 }
 
 .benefit i {
@@ -446,6 +446,8 @@ section.subsection .video:hover::after {
 .benefit h3 {
 	font-weight: 700;
 }
+
+section.brands { background: #f4f5f4; }
 
 section.plans {
 	background: url(../images/banner-plans.jpg);
