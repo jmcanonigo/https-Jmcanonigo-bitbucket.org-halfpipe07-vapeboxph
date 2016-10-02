@@ -107,7 +107,7 @@
 <section class="sect-orig brands">
 	<div class="title-container text-center row m-b-md">
 		<div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-			<h2>What Brands Will I Get?</h2>
+			<h2>Brands and Flavors We Love</h2>
 			<h4>We're working very hard to get only the premium quality e-juices in every box.</h4>
 		</div>
 	</div>
