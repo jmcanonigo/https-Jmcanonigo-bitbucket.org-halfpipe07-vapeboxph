@@ -113,14 +113,14 @@
 	</div>
 	<div class="row">
 		<div class="col-xs-12 col-md-10 col-md-offset-1">
-			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/golden-drops.jpg"); ?>" class="img-responsive text-center" alt="Golden Drops" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/golden-drops.png"); ?>" class="img-responsive text-center" alt="Golden Drops" /></div>
 			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/holy-smokes.png"); ?>" class="img-responsive text-center" alt="Holy Smokes" /></div>
 			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/daily-drip.png"); ?>" class="img-responsive text-center" alt="Daily Drip" /></div>
-			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/kings-cloud.jpg"); ?>" class="img-responsive text-center" alt="King's Cloud" /></div>
-			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/equilibrijuz.jpg"); ?>" class="img-responsive text-center" alt="Equilibrijuz" /></div>
-			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/bullet-vape.jpg"); ?>" class="img-responsive text-center" alt="Bullet Vape" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/kings-cloud.png"); ?>" class="img-responsive text-center" alt="King's Cloud" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/equilibrijuz.png"); ?>" class="img-responsive text-center" alt="Equilibrijuz" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/bullet-vape.png"); ?>" class="img-responsive text-center" alt="Bullet Vape" /></div>
 			<!-- <div class="col-xs-6 col-sm-4 col-md-2 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/good-sht.jpg"); ?>" class="img-responsive text-center" alt="Good Sh*t" /></div> -->
-			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/lazy-bastards.jpg"); ?>" class="img-responsive text-center" alt="Equilibrijuz" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/lazy-bastards.png"); ?>" class="img-responsive text-center" alt="Equilibrijuz" /></div>
 			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/pure-drops.jpg"); ?>" class="img-responsive text-center" alt="Pure Drops" /></div>
 			<!-- <div class="col-xs-6 col-sm-4 col-md-2 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/adics-burn.jpg"); ?>" class="img-responsive text-center" alt="Adic's Burn" /></div> -->
 		</div>
