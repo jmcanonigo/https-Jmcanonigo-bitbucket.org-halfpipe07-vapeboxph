@@ -51,5 +51,11 @@
 	<script src="https://use.typekit.net/jpt8btq.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	<script type="text/javascript" src="<?php echo base_url('assets/js/main.min.js'); ?>"></script>
+	
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded", function(event) { 
+		  vapebox.initHome();
+		});
+	</script>
 </body>
 </html>

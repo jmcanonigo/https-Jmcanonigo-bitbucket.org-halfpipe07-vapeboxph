@@ -74,38 +74,5 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body class="topmost page-<?php echo strtolower(str_replace(' ', '-', $title)); ?>">
 
-	<!-- <div class="toggle-button visible-xs visible-sm">
-		<div class="line-container">
-			<div class="line line-1"></div>
-			<div class="line line-2"></div>
-			<div class="line line-3"></div>
-		</div>
-	</div>
-	<nav id="menu">
-	  	<ul class="list-none clearfix">
-			<li><a href="<?php echo site_url('home'); ?>">Home</a></li>
-			<li><a href="<?php echo site_url('seller'); ?>">Seller</a></li>
-			<li><a href="<?php echo site_url('buyer'); ?>">Buyer</a></li>
-			<li><a href="<?php echo site_url('broker'); ?>">Broker</a></li>
-			<!-- <li><a href="http://www.redlist.ph/blog">Blog</a></li> -->
-			<!-- <li><a href="<?php echo site_url('about-us'); ?>">About Us</a></li>
-			<li><a href="<?php echo site_url('contact-us'); ?>">Contact Us</a></li>
-		</ul>
-	</nav> -->
-
 	<main id="panel">
-		<header>
-			<div class="brand col-xs-6">
-				<a href="http://www.vapebox.ph"><img src="<?php echo base_url("assets/images/vapebox-logo-full.png"); ?>" class="logo" alt="VapeBox PH Logo" /></a>
-			</div>
-			<nav class="col-xs-6 text-right">
-				<div class="centering">
-					<ul class="list-none stack-left hidden-xs hidden-sm clearfix">
-						<li><a href="#howitworks">How It Works</a></li>
-						<li><a href="#contact">Contact Us</a></li>
-						<li class="btn-container"><a href="#order" class="btn">Order Now</a></li>
-					</ul>
-				</div>
-			</nav>
-		</header>
 

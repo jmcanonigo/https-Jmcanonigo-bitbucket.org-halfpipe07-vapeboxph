@@ -36,13 +36,18 @@ class Api extends REST_Controller {
 		if(null !== $this->post('id')) {
 			$id = $this->post('id');
 	        $prize = $this->post('prize');
+	        $this->testers_model->inventory($prize, 'subtract');
 			$this->response($this->participants_model->update_participants($id, $prize), 201);
 		} else if (null !== $this->post('email')) {
+			$ref_id = 0;
 			$fname = $this->post('fname');
 	        $lname = $this->post('lname');
 	        $email = $this->post('email');
 	        $mobile = $this->post('mobile');
-	        $this->response($this->participants_model->add_participants($fname, $lname, $email, $mobile), 201);
+	        if(null !== $this->post('ref_id')) {
+	        	$ref_id = $this->post('ref_id');
+	        }
+	        $this->response($this->participants_model->add_participants($fname, $lname, $email, $mobile, $ref_id), 201);
 		}
 	}
 

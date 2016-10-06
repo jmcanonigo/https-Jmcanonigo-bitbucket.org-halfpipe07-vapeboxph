@@ -154,9 +154,13 @@
 						</div>
 						<p>New to VapeBox and still deciding whether to give it a try? We have crafted this special package for you, try out our service then upgrade later!</p>
 						<div class="pricing p-t-sm">
-							<sup class="currency">Php</sup>
+							<div class="strike-off">
+								<sup class="currency">Php</sup>
+								<span class="price">420</span>
+								<span class="month"> / mo</span>
+							</div>
 							<span class="price">399</span>
-							<span class="month"> / mo</span>
+							<span class="month"> / mo*</span>
 						</div>
 						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>
@@ -178,9 +182,13 @@
 						</div>
 						<p>Just add P150 to the previous plan and get double the amount of flavors! The sampler package with the most value for money. Discover 6 new flavors every month.</p>
 						<div class="pricing p-t-sm">
-							<sup class="currency">Php</sup>
+							<div class="strike-off">
+								<sup class="currency">Php</sup>
+								<span class="price">580</span>
+								<span class="month"> / mo</span>
+							</div>
 							<span class="price">550</span>
-							<span class="month"> / mo</span>
+							<span class="month"> / mo*</span>
 						</div>
 						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>
@@ -204,9 +212,13 @@
 						</div>
 						<p>Want to secure your whole month's supply of e-juice? Then this package is just for you. Get premium 30ml bottles together with your testers. Never run out of juice again!</p>
 						<div class="pricing p-t-sm">
-							<sup class="currency">Php</sup>
+							<div class="strike-off">
+								<sup class="currency">Php</sup>
+								<span class="price">1,480</span>
+								<span class="month"> / mo</span>
+							</div>
 							<span class="price">1,450</span>
-							<span class="month"> / mo</span>
+							<span class="month"> / mo*</span>
 						</div>
 						<h4 class="subnote">Includes SHIPPING within Metro Manila!</h4>
 					</div>

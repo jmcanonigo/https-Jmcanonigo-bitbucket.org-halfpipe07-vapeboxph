@@ -21,16 +21,22 @@ class Pages extends CI_Controller {
 
 	public function view($page = 'home')
 	{
+
+		$data['title'] = ucwords(str_replace("-"," ",$page));
+
 		if ( ! file_exists(APPPATH.'views/pages/'.$page.'.php'))
         {
                 // Whoops, we don't have a page for that!
                 show_404();
+        } else if($page == 'wheel-of-juices-giveaway') {
+        	$this->load->view('templates/header-base', $data);
+        	$this->load->view('pages/'.$page, $data);
+        	$this->load->view('templates/footer-base', $data);
+        } else {
+	        $this->load->view('templates/header', $data);
+	        $this->load->view('pages/'.$page, $data);
+	        $this->load->view('templates/footer', $data);
         }
 
-        $data['title'] = ucwords(str_replace("-"," ",$page));
-
-        $this->load->view('templates/header', $data);
-        $this->load->view('pages/'.$page, $data);
-        $this->load->view('templates/footer', $data);
 	}
 }

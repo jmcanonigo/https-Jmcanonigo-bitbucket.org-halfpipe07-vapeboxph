@@ -25,17 +25,21 @@ class Participants_model extends CI_Model {
 	  }
 	}
 
-	public function add_participants($fname, $lname, $email, $mobile) {
-		if($this->get_participants_by_email($email) != TRUE) {
+	public function add_participants($fname, $lname, $email, $mobile, $ref_id) {
+		$sel_participant = $this->get_participants_by_email($email);
+		if($sel_participant != TRUE) {
 			$this->fname    = $fname;
 	        $this->lname  	= $lname;
 	        $this->email    = $email;
 	        $this->mobile   = $mobile;
+	        $this->ref_id   = $ref_id;
 
 	        $this->db->insert('participants', $this);
 	        return $this->db->insert_id();
-		} else {
+		} else if ($sel_participant['prize'] > 0) {
 			return FALSE;
+		} else {
+			return $sel_participant['id'];
 		}
 	}
 
