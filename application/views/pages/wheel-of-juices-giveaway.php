@@ -9,10 +9,10 @@
 
 <section class="home home-wheel">
 	<div class="title-container row">
-		<div class="col-xs-12 col-md-4 col-md-offset-1 col-md-push-6 text-center">
+		<div class="col-xs-12 col-md-5 col-md-push-6 text-center">
 			<img src="<?php echo base_url("assets/images/spin-the-wheel.png"); ?>" class="img-wheel img-responsive" alt="Spin the Wheel">
 		</div>
-		<div class="col-xs-12 col-md-5 col-md-offset-1 col-md-pull-5">
+		<div class="col-xs-12 col-md-5 col-md-offset-2 col-md-pull-6">
 			<a href="http://www.vapebox.ph"><img src="<?php echo base_url("assets/images/vapebox-logo-full.png"); ?>" class="vapebox-logo" alt="VapeBox PH Logo" /></a>
 			<p class="presents">Presents</p>
 			<img src="<?php echo base_url("assets/images/wheel-of-juices.png"); ?>" class="img-responsive" alt="Wheel of Juices!">
