@@ -170,39 +170,38 @@ class Cron extends CI_Controller {
 						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
 						$msg_sms .= "\n\n" . "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
 
-						$msg_email = 'Hi ' . $data['fname'] . '!';
-						$msg_email .= "\n\n";
-						$msg_email = "Congrats on your free juice! Thank you for joining our VapeBox PH Giveaway. There's one more step to the process, which is shipping your juice to you!";
-						$msg_email .= "\n\n";
-						$msg_email .= "Please settle a total amount of " . $cost . ' to ' . $msg_payments;
-						$msg_email .= "\n\n";
-						$msg_email .= "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
+						$msg_email = '<p>Hi ' . $data['fname'] . '!</p>';
+						$msg_email .= "<br><br>";
+						$msg_email = "<p>Congrats on your free juice! Thank you for joining our VapeBox PH Giveaway. There's one more step to the process, which is shipping your juice to you!</p>";
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Please settle a total amount of " . $cost . ' to ' . $msg_payments . '</p>';
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.</p>";
 						break;
 					case 'Pick Up from Our Office in Greenhills':
 						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Here\'s the pick up address:';
 						$msg_sms .= "\n\n" . "Unit 311, Sunrise Condo, 226 Ortigas Ave., San Juan City";
 						$msg_sms .= "\n\n" . "We're open from 10AM - 7PM";
 
-						$msg_email = 'Hi ' . $data['fname'] . '!';
-						$msg_email .= "\n\n";
-						$msg_email = "Thank you for joining our VapeBox PH Giveaway. There's one more step to the process, which is claiming your juice!";
-						$msg_email .= "\n\n";
-						$msg_email .= "Here's our address";
-						$msg_email .= "\n\n" . "Unit 311, Sunrise Condo, 226 Ortigas Ave., San Juan City";
-						$msg_email .= "\n\n" . "We're open from 10AM - 7PM. Don't forget your ID# " . $part_id;
+						$msg_email = '<p>Hi ' . $data['fname'] . '!</p><br><br>';
+						$msg_email = "<p>Thank you for joining our VapeBox PH Giveaway. There's one more step to the process, which is claiming your juice!</p>";
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Here's our address:</p>";
+						$msg_email .= "<br><br><p>Unit 311, Sunrise Condo, 226 Ortigas Ave., San Juan City</p>";
+						$msg_email .= "<br><br><p>We're open from 10AM - 7PM. Don't forget your ID# " . $part_id . "</p>";
 						break;
 					default:
 						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
 						$msg_sms .= "\n" . "And we'll ship it together with your box!";
 						$msg_sms .= "\n\n" . "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
 
-						$msg_email = 'Hi ' . $data['fname'] . '!';
-						$msg_email .= "\n\n";
-						$msg_email = "Congrats on your free juice! Thank you for joining our VapeBox PH Giveaway and availing a VapeBox Subscription!";
-						$msg_email .= "\n\n";
-						$msg_email .= "Please settle a total amount of " . $cost . ' to ' . $msg_payments;
-						$msg_email .= "\n\n";
-						$msg_email .= "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
+						$msg_email = '<p>Hi ' . $data['fname'] . '!</p>';
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Congrats on your free juice! Thank you for joining our VapeBox PH Giveaway and availing a VapeBox Subscription!</p>";
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Please settle a total amount of " . $cost . ' to ' . $msg_payments . "</p>";
+						$msg_email .= "<br><br>";
+						$msg_email .= "<p>Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.</p>";
 						break;
 				}
 
