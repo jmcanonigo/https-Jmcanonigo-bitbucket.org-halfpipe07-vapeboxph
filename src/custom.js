@@ -1,5 +1,5 @@
 (function( self, undefined) {
-  var BASE_URL = "http://www.vapebox.ph";
+  var BASE_URL = location.hostname == "localhost" ? "http://localhost/vapeboxph" : "http://www.vapebox.ph";
   var API_URL = BASE_URL + "/index.php";
 
   var getQueryVariable = function(variable) {

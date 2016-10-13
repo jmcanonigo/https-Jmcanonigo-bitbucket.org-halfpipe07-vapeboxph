@@ -105,7 +105,6 @@
 	<!-- Scripts -->
 	<script type="text/javascript" src="<?php echo base_url('src/spin.min.js'); ?>"></script>
 	<script type="text/javascript" src="<?php echo base_url('assets/js/main.min.js'); ?>"></script>
-	<script type="text/javascript" src="<?php echo base_url('src/custom.js'); ?>"></script>
 	<script type="text/javascript">
 		document.addEventListener("DOMContentLoaded", function(event) { 
 		  vapebox.initWheel();
