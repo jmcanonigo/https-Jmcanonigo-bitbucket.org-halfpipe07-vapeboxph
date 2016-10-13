@@ -167,7 +167,7 @@ class Cron extends CI_Controller {
 			if(!!$data == TRUE) {
 				switch ($claim) {
 					case 'Just Pay For Shipping (Php 50 - 100)':
-						$msg_sms = 'Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
+						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
 						$msg_sms .= "\n\n" . "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
 
 						$msg_email = 'Hi ' . $data['fname'] . '!';
@@ -179,7 +179,7 @@ class Cron extends CI_Controller {
 						$msg_email .= "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
 						break;
 					case 'Pick Up from Our Office in Greenhills':
-						$msg_sms = 'Hi ' . $data['fname'] . '! Congrats on your free juice! Here\'s the pick up address:';
+						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Here\'s the pick up address:';
 						$msg_sms .= "\n\n" . "Unit 311, Sunrise Condo, 226 Ortigas Ave., San Juan City";
 						$msg_sms .= "\n\n" . "We're open from 10AM - 7PM";
 
@@ -192,7 +192,7 @@ class Cron extends CI_Controller {
 						$msg_email .= "\n\n" . "We're open from 10AM - 7PM. Don't forget your ID# " . $part_id;
 						break;
 					default:
-						$msg_sms = 'Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
+						$msg_sms = 'VapeBoxPH: Hi ' . $data['fname'] . '! Congrats on your free juice! Just pay P' . $cost . ' to ' . $msg_payments;
 						$msg_sms .= "\n" . "And we'll ship it together with your box!";
 						$msg_sms .= "\n\n" . "Cutoff for shipping out is 1pm. ETA will depend on the speed of the courier. Pls text 09260363575 with your ID #" . $part_id . ", sender's name, amt, ref. no. after payment.";
 
