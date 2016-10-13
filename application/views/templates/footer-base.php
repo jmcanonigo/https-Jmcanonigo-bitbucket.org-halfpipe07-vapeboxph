@@ -70,9 +70,9 @@
 	  							</span>
 	  						</div>
 	  						<div class="sec">
-	  							<p>Daily Drip</p>
+	  							<p>Juan's Juice</p>
 	  							<span class="fa">
-	  								<img src="<?php echo base_url("/assets/images/suppliers/daily-drip-60.png"); ?>" alt="Daily Drip">
+	  								<img src="<?php echo base_url("/assets/images/suppliers/juans-juice-60.png"); ?>" alt="Juan's Juice">
 	  							</span>
 	  						</div>
 	  						<div class="sec">

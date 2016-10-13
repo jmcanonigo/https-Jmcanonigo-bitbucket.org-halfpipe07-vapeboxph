@@ -118,7 +118,7 @@
         min: 0,
         max: 20
       },
-      'Daily Drip': {
+      'Juans Juice': {
         min: 40,
         max: 30 //increment
       },

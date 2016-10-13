@@ -1,0 +1,1522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"part",
+				"participant"
+			],
+			[
+				"btn",
+				"btn-cornered"
+			],
+			[
+				"error",
+				"error_messages"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"ref",
+				"ref_id"
+			],
+			[
+				"cookie",
+				"cookie_func"
+			],
+			[
+				"cooke",
+				"cookie_func"
+			],
+			[
+				"cooki",
+				"cookie_func"
+			],
+			[
+				"video",
+				"videoSrc"
+			],
+			[
+				"explaine",
+				"explainerSrc"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"title",
+				"title-container"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"toggle",
+				"toggle-button"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"fact",
+				"facts-lgray"
+			],
+			[
+				"entry",
+				"entry-header"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"sidebar",
+				"sidebar-categories"
+			],
+			[
+				"sid",
+				"sidebar-topposts"
+			],
+			[
+				"rl_theme",
+				"rl_theme_scripts"
+			],
+			[
+				"pro",
+				"proxima-nova-sc-osf"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pric",
+				"pricingFeatures"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"feature",
+				"features-section"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"l",
+				"lblack"
+			],
+			[
+				"pages-",
+				"pages-container"
+			],
+			[
+				"init",
+				"initRotatePages"
+			],
+			[
+				"partic",
+				"participant_params"
+			],
+			[
+				"order",
+				"order_form"
+			],
+			[
+				"height",
+				"heightUntilTitle"
+			],
+			[
+				"ca",
+				"cancelled"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"time",
+				"time-left"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"load",
+				"loadDatepicker"
+			],
+			[
+				"place",
+				"placeObj"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"fa",
+				"facebook"
+			],
+			[
+				"header",
+				"header-text-h3"
+			],
+			[
+				"parti",
+				"participant_form"
+			],
+			[
+				"curre",
+				"currentVal"
+			],
+			[
+				"input",
+				"inputQty"
+			],
+			[
+				"svg",
+				"svgObject"
+			],
+			[
+				"home",
+				"homeAnalytics"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"scroll",
+				"scrollwheel"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"start",
+				"start_time"
+			],
+			[
+				"details",
+				"details-group"
+			],
+			[
+				"timenow",
+				"timenow_month"
+			],
+			[
+				"brie-",
+				"brief-share"
+			],
+			[
+				"right-",
+				"right-off-canvas-menu"
+			],
+			[
+				"select",
+				"selectWeekendFunc"
+			],
+			[
+				"main",
+				"mainCalOpts"
+			],
+			[
+				"split",
+				"splitDayEnd"
+			],
+			[
+				"spli",
+				"splitDayEnd"
+			],
+			[
+				"param",
+				"param-date"
+			],
+			[
+				"param-",
+				"param-category"
+			],
+			[
+				"event_",
+				"event_type_id"
+			],
+			[
+				"contact",
+				"contact_form"
+			],
+			[
+				"event",
+				"event_category_id"
+			],
+			[
+				"poster",
+				"poster_landscape"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"joine",
+				"joined-events"
+			],
+			[
+				"creat",
+				"createUserBanner"
+			],
+			[
+				"book",
+				"book-slots"
+			],
+			[
+				"fea",
+				"featured-item"
+			],
+			[
+				"white",
+				"white-smoke"
+			],
+			[
+				"span",
+				"span"
+			],
+			[
+				"butt",
+				"buttons2"
+			],
+			[
+				"bri",
+				"brief-content"
+			],
+			[
+				"even",
+				"event-card"
+			],
+			[
+				"content",
+				"content-style-overlay"
+			],
+			[
+				"clas",
+				"class_name"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"Event",
+				"EventService"
+			],
+			[
+				"send",
+				"send_followup"
+			],
+			[
+				"members",
+				"membersParams"
+			],
+			[
+				"new",
+				"newMember"
+			],
+			[
+				"tl",
+				"tl-block"
+			],
+			[
+				"slid",
+				"slide-timeline"
+			],
+			[
+				"sli",
+				"slide-timeline"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"webki",
+				"webkit-animation"
+			],
+			[
+				"purchaseS",
+				"purchasesServices"
+			],
+			[
+				"pur",
+				"purchasesServices"
+			],
+			[
+				"purch",
+				"purchasesServices"
+			],
+			[
+				"purc",
+				"purchasesServices"
+			],
+			[
+				"rawmat",
+				"rawmat_params"
+			],
+			[
+				"rawm",
+				"rawmatsServices"
+			],
+			[
+				"raw",
+				"rawmatsServices"
+			],
+			[
+				"P",
+				"password"
+			],
+			[
+				"wth",
+				"wthService"
+			],
+			[
+				"co",
+				"collectStrings"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Snippet: e	",
+				"Snippet: <?php else: ?>"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/vapeshop/.gitignore",
+		"/Applications/MAMP/htdocs/vapeboxph/.gitignore",
+		"/Applications/MAMP/htdocs/vapeboxph/application/views/templates/footer.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/views/pages/home.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/models/Participants_model.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/views/templates/header-base.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/views/templates/header.php",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/images/suppliers/daily-drip.png",
+		"/Applications/MAMP/htdocs/vapeboxph/application/controllers/Api.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/views/templates/footer-base.php",
+		"/Applications/MAMP/htdocs/vapeboxph/src/spin.js",
+		"/Applications/MAMP/htdocs/vapeboxph/gruntfile.js",
+		"/Applications/MAMP/htdocs/vapeboxph/src/js/jquery-3.1.1.slim.js",
+		"/Applications/MAMP/htdocs/vapeboxph/src/js/ladda.jquery.js",
+		"/Applications/MAMP/htdocs/vapeboxph/src/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/vapeboxph/application/controllers/Pages.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/config/routes.php",
+		"/Users/halfpipe07/Dropbox/Vapebox/Branding Guidelines",
+		"/Applications/MAMP/htdocs/vapeboxph/application/models/Testers_model.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/config/database.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/language/english/rest_controller_lang.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/libraries/REST_Controller.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/libraries/Format.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/config/rest.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/models/participants.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/models/testers.php",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/images/suppliers/golden-drops.jpg",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/images/banner-benefits.gif",
+		"/Applications/MAMP/htdocs/vapeboxph/application/controllers/Testers.php",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/css/style.min.css",
+		"/Applications/MAMP/htdocs/vapeboxph/src/custom.js",
+		"/Applications/MAMP/htdocs/vapeboxph/user_guide/_downloads/ELDocs.tmbundle.zip",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/images/plan-starter.png",
+		"/Applications/MAMP/htdocs/vapeboxph/assets/images/arrow-opinion.png",
+		"/Applications/MAMP/htdocs/vapeboxph/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/vapeboxph/application/config/config.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/page-contact-us.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/page-careers.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/index.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/single.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/single-career.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/css/font-awesome.min.css",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/page-portfolio.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/twentysixteen/single.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/404.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/twentysixteen/404.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-includes/theme-compat/header.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/home.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/js/app.js",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/footer.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-includes/theme-compat/footer.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/functions.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/page-services.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/header.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/page-the-team.php",
+		"/Applications/MAMP/htdocs/rippleideas3/wp-content/themes/rippleideas/comments.php",
+		"/Users/halfpipe07/Downloads/Emilio Temones - offered 2k sqm lots",
+		"/Applications/MAMP/htdocs/redlist/.gitignore",
+		"/Applications/MAMP/htdocs/redlist/application/views/templates/header.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/templates/footer.php",
+		"/Applications/MAMP/htdocs/redlist/application/controllers/Mail.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/contact-us.php",
+		"/Applications/MAMP/htdocs/redlist/application/controllers/Pages.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/mail/message.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/seller.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/broker.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/buyer.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/about-us.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/home.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/single.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/functions.php",
+		"/Applications/MAMP/htdocs/redlist/assets/images/arrow-opinion.png",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/sidebar.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/brokers.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/buyers.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/sellers.php",
+		"/Applications/MAMP/htdocs/redlist/composer.json",
+		"/Applications/MAMP/htdocs/redlist/src/custom.js",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/header.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/twentyfourteen/header.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/js/app.js",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/style.css",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/index.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/content.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/category.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-includes/theme-compat/sidebar.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/content-header.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/twentyfifteen/single.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/twentyfifteen/functions.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-includes/functions.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/footer.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/css/bootstrap.min.css",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-config.php",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/css/font-awesome.css",
+		"/Applications/MAMP/htdocs/redlist/blog/wp-content/themes/redlist/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/redlist/assets/images/redlist-icon-150.png",
+		"/Applications/MAMP/htdocs/redlist/assets/images/redlist-icon-100.png",
+		"/Applications/MAMP/htdocs/redlist/assets/fonts/glyphicons-halflings-regular.eot",
+		"/Applications/MAMP/htdocs/redlist/assets/images/redlist-icon.png",
+		"/Applications/MAMP/htdocs/redlist/gruntfile.js",
+		"/Applications/MAMP/htdocs/redlist/src/js/custom.js",
+		"/Applications/MAMP/htdocs/redlist/package.json",
+		"/Applications/MAMP/htdocs/redlist/assets/js/custom.js",
+		"/Applications/MAMP/htdocs/redlist/assets/js/main.min.js",
+		"/Applications/MAMP/htdocs/redlist/src/js/jquery.js",
+		"/Applications/MAMP/htdocs/redlist/application/config/config.php",
+		"/Applications/MAMP/htdocs/redlist/assets/seed_db",
+		"/Applications/MAMP/htdocs/redlist/assets/css/style.css",
+		"/Applications/MAMP/htdocs/redlist/src/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/redlist/application/config/routes.php",
+		"/Applications/MAMP/htdocs/redlist/assets/css/style.min.css",
+		"/Applications/MAMP/htdocs/redlist/assets/css/bootstrap-theme.css",
+		"/Applications/MAMP/htdocs/redlist/assets/js/bootstrap.min.js",
+		"/Applications/MAMP/htdocs/redlist/src/js/npm.js",
+		"/Applications/MAMP/htdocs/redlist/assets/js/slideout.min.js",
+		"/Applications/MAMP/htdocs/redlist/assets/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/redlist/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/redlist/favicon.ico",
+		"/Users/halfpipe07/Documents/Dev Files/Base Template/index.php",
+		"/Applications/MAMP/htdocs/redlist/application/views/pages/about.php",
+		"/Applications/MAMP/htdocs/redlist/.htaccess",
+		"/Applications/MAMP/htdocs/manilainvestor2/.htaccess",
+		"/private/var/folders/r_/kh5zx4lj4619z9qlds0t84hh0000gn/T/fz3temp-1/functions.php",
+		"/Users/halfpipe07/Downloads/Readme.txt",
+		"/Users/halfpipe07/Dropbox/Redlist/Buyer Explainer Script",
+		"/private/var/folders/r_/kh5zx4lj4619z9qlds0t84hh0000gn/T/fz3temp-1/sidebar.php",
+		"/Users/halfpipe07/Downloads/Click Funnels/Sales Scripts/Sales Scripts Overview",
+		"/Applications/MAMP/logs/apache_error.log"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/",
+			"/Applications/MAMP/htdocs/vapeboxph/",
+			"/Applications/MAMP/htdocs/redlist/",
+			"/Applications/MAMP/htdocs/redlist/src/",
+			"/Applications/MAMP/htdocs/redlist",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/views/pages",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/themes/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/themes/basic-two",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/themes/mars",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/themes/basic",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/controllers/api",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/vendor/assets/javascripts/jquery_plugins",
+			"-*.log,-*.min.js,/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api",
+			"/Users/halfpipe07/.rvm,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/views/events,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/views/businesses",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/,-*.log,-*.min.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/,-*.log",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api,-*.log",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/app/views/users",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr-api/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr,-*.log",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr",
+			"<open files>,/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr",
+			"<open files>",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr",
+			"<open files>",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/boothlr/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/techninja/app/assets/javascripts/",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/techninja/app/assets/javascripts/ng-app-eo/config.router.js",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/techninja/app/assets/javascripts",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/techninja/vendor/assets/stylesheets",
+			"/Users/halfpipe07/Documents/Dev Files/Ruby/salata2/app/assets/javascripts/angular/partials/admin",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".wheel-container.step-two",
+			"#contact",
+			".wheel-container",
+			".home-wheel",
+			"section.home.home-wheel",
+			"Golden Drops",
+			"Golden Drips",
+			"Golden Drops1",
+			"BASE_URL",
+			"$('.",
+			".txt",
+			"#contact",
+			"form-group",
+			".sect-orig",
+			"rgba(0, 210, 255, 0.2), rgba(157, 114, 199, 0.5)",
+			"REST_Controller",
+			"APPPATH",
+			"img-responsive",
+			".plan",
+			".video",
+			"contacts",
+			"redlist",
+			".home-blocking",
+			"title-container",
+			"benefit",
+			".title-container",
+			"why",
+			"title-container",
+			"benefit",
+			"font-weight: 100",
+			"#9d72c7",
+			"#00d2ff",
+			"$purple",
+			"$lblue",
+			"6px 12px",
+			"font-weight",
+			"a:hover",
+			".navbar-nav>li>a:hover",
+			"font-weight: 100",
+			"border-top:",
+			":hover",
+			"start-btn",
+			"home-loop",
+			"brandon",
+			"carrier",
+			"We're ",
+			"blog-single",
+			"whats-up",
+			".contact-us",
+			".contact-form",
+			"transition",
+			".career-opp",
+			"career-single",
+			"old-chums",
+			"ronn-esguerra",
+			"font-family",
+			"List with Redlist",
+			"List with",
+			"<button class=\"btn btn-lg btn-yellow m-t-sm\">List with Redlist</button>",
+			"<button class=\"btn btn-lg btn-yellow m-t-sm\">Get Accredited<span class=\"hidden-xs\"> with Redlist</span></button>",
+			"Get Access",
+			"get access ",
+			"m-b-md",
+			"to take ",
+			"img-guaranteed",
+			"subnote",
+			"section.buyers-summary",
+			"big-text",
+			"Get Access to the List",
+			"img-respon",
+			"Get Accredited with Redlist",
+			"img src",
+			"section.home-features .features>*",
+			"4 easy",
+			"section.slp .summary-box",
+			"to sell your proper",
+			"p +",
+			"p,",
+			"ul,",
+			"ul",
+			"time",
+			"bg-",
+			"url('",
+			"http://www.placehold.it/50x50",
+			"img",
+			"toggle-",
+			"img src=",
+			"#menu ul",
+			"h5",
+			"<li>",
+			"ul>",
+			"ul",
+			"btn-orange",
+			"Get Access to the List",
+			"btn-orange",
+			"buyers-redlist",
+			"#982626",
+			"boxed",
+			"100x100",
+			"m-n-0",
+			"it does",
+			"hr class",
+			"border-bottom",
+			"boxed",
+			"p",
+			"introducing",
+			"condos",
+			"img src",
+			"font-weight: 300",
+			"ul",
+			"h2",
+			"section.home .title-container",
+			"border-bottom",
+			"entry-header",
+			"Post",
+			"list-none",
+			"post-tags",
+			"#panel header",
+			"width: 100%",
+			"add_theme_support( 'post-thumbnails",
+			"add_theme_support( 'post-thumbnails’ )",
+			"scale",
+			"</li>",
+			"<li>",
+			".home",
+			"h4",
+			"h3",
+			"</a>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"API_URL",
+			"form-group col-xs-12",
+			"rgba(0, 0, 0, 1), rgba(31,31,31,1)",
+			"img-responsive text-center",
+			"vapebox",
+			"rgba(157, 114, 199, 0.5)",
+			"rgba(0, 210, 255, 0.2)",
+			"#9d72c7",
+			"#00d2ff",
+			"			<a href=\"https://redlist.leadpages.co/leadbox/141f91a73f72a2%3A15679412e746dc/5631986051842048/\" target=\"_blank\" class=\"btn btn-lg btn-yellow m-t-sm\">List with Redlist</a>",
+			"<a href=\"https://redlist.leadpages.co/leadbox/14406ef73f72a2%3A15679412e746dc/5676073085829120/\" target=\"_blank\" class=\"btn btn-lg btn-yellow m-t-md\">Get Accredited<span class=\"hidden-xs\"> with Redlist</span></a>",
+			"Get Access<span class=\"hidden-xs\"> to the List</span>",
+			"Get Accredited<span class=\"hidden-xs\"> with Redlist</span>",
+			"<?php echo base_url('assets/images/bullet-condo.png'; ?>",
+			"h4",
+			"<li class=\"col-xs-12 col-sm-6\">",
+			"btn-yellow",
+			"List with Redlist",
+			"btn-yellow",
+			"50x50",
+			"li",
+			"p",
+			"#panel > header",
+			"</a></li>",
+			"<li><a href=\"#\">",
+			".blogroll-banner",
+			"h3",
+			"h4",
+			"",
+			"background",
+			"0.5s",
+			"10px",
+			"30px",
+			"50px",
+			"h4",
+			"h3",
+			"</a></li>",
+			" ",
+			"",
+			"https://fonts.googleapis.com/",
+			"Arial;",
+			"hello@vivento.io",
+			"list-none small-12 small-offset-0 small-block-grid-1 ",
+			"list-none small-12 small-offset-0 small-block-grid-1",
+			" - ",
+			"li",
+			"fa-2x hidden-for-small-only",
+			"<%= render partial: 'layouts/signup_hero_header' %>",
+			"h6",
+			"ul",
+			"li",
+			"",
+			"background-image:",
+			"; background-repeat: no-repeat",
+			"",
+			"mini",
+			"Make your Life Eventful",
+			"",
+			"Vivento Ticketing Solutions",
+			"<%= @event.organizer %>",
+			"<%= @event.address_attributes.address %>",
+			"<%= @event.humanized_date %>",
+			"<%=h truncate(event.description, :length => 150) %>",
+			"<%= @event.subtitle %>",
+			"<%= @event.title %>",
+			"<%= @participant.first_name %>",
+			"table.btn",
+			"<li>",
+			"small-12 medium-1",
+			">",
+			"<li class=\"col-xs-12 col-md-1\">",
+			"$color-subtitle",
+			"$color-title",
+			"$font-body",
+			"$font-header",
+			"$font-body",
+			"$font-header",
+			"$color-subtitle",
+			"$color-title",
+			"$color-main",
+			"basic-two",
+			"mars",
+			"$ghost",
+			"section-ghost",
+			"$ghost",
+			"proxima-nova",
+			"basic-six",
+			"color-main",
+			"basic-five",
+			"basic-four",
+			"color-main",
+			"right",
+			"255",
+			"running",
+			"32",
+			"255",
+			"organizers",
+			"seat",
+			"",
+			"vivento.io",
+			"portrait",
+			"buttons",
+			"@event",
+			"@business",
+			"icon-ticket",
+			"createBanner",
+			"morph-button-modal-login",
+			"icon-booth",
+			"icon-seat",
+			"lighten($lorange, 15%);",
+			"/g/300/500\"",
+			"assets/",
+			"ng-src=\"assets/",
+			"assets/",
+			"img ng-src=\"assets/",
+			"img src=\"assets/",
+			"assets/ng-app-eo/app/",
+			"assets/",
+			"assets/angulr/",
+			"eo/",
+			"src=\"/assets/",
+			"src=\"images/",
+			"assets/tpl/",
+			"assets/tpl",
+			"stage[]\"",
+			"funding[]\"",
+			"industry[]\"",
+			"industry\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"footer",
+				"application/views/templates/footer.php"
+			],
+			[
+				"footer-",
+				"application/views/templates/footer-base.php"
+			],
+			[
+				"home",
+				"application/views/pages/home.php"
+			],
+			[
+				"header-base",
+				"application/views/templates/header-base.php"
+			],
+			[
+				"header",
+				"application/views/templates/header.php"
+			],
+			[
+				"footer-base",
+				"application/views/templates/footer-base.php"
+			],
+			[
+				"header-b",
+				"application/views/templates/header-base.php"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"header-",
+				"application/views/templates/header-base.php"
+			],
+			[
+				"routes",
+				"application/config/routes.php"
+			],
+			[
+				"page-team",
+				"wp-content/themes/rippleideas/page-the-team.php"
+			],
+			[
+				"seller",
+				"application/views/pages/seller.php"
+			],
+			[
+				"broker",
+				"application/views/pages/broker.php"
+			],
+			[
+				"buyer",
+				"application/views/pages/buyer.php"
+			],
+			[
+				"brokers",
+				"application/views/pages/brokers.php"
+			],
+			[
+				"buyers",
+				"application/views/pages/buyers.php"
+			],
+			[
+				"sellers",
+				"application/views/pages/sellers.php"
+			],
+			[
+				"contact",
+				"application/views/pages/contact-us.php"
+			],
+			[
+				"home.php",
+				"application/views/pages/home.php"
+			],
+			[
+				"sidebar",
+				"blog/wp-includes/theme-compat/sidebar.php"
+			],
+			[
+				"single.php",
+				"blog/wp-content/themes/twentyfifteen/single.php"
+			],
+			[
+				"functions",
+				"blog/wp-content/themes/redlist/functions.php"
+			],
+			[
+				"signup",
+				"app/views/layouts/_signup_hero_header.html.erb"
+			],
+			[
+				"events.css",
+				"app/assets/stylesheets/events.css.scss"
+			],
+			[
+				"pricing",
+				"app/views/pages/pricing.html.erb"
+			],
+			[
+				"users",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"common",
+				"app/assets/stylesheets/common.css.scss"
+			],
+			[
+				"pricin",
+				"app/views/pages/pricing.html.erb"
+			],
+			[
+				"about",
+				"app/views/pages/about.html.erb"
+			],
+			[
+				"organizer",
+				"spec/models/organizer_spec.rb"
+			],
+			[
+				"pages",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"events",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"group",
+				"app/controllers/api/groups_controller.rb"
+			],
+			[
+				"analytics",
+				"app/views/feature/analytics.html.erb"
+			],
+			[
+				"mobile",
+				"app/views/feature/mobile.html.erb"
+			],
+			[
+				"hosting",
+				"app/views/feature/hosting.html.erb"
+			],
+			[
+				"social",
+				"app/views/feature/social.html.erb"
+			],
+			[
+				"marketing",
+				"app/views/feature/marketing.html.erb"
+			],
+			[
+				"ticketing",
+				"app/views/feature/ticketing.html.erb"
+			],
+			[
+				"featuresmenu",
+				"app/views/layouts/_features_menu.erb"
+			],
+			[
+				"pagescon",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"eventscss",
+				"app/assets/stylesheets/events.css.scss"
+			],
+			[
+				"sign",
+				"app/views/layouts/_signup_hero_footer.html.erb"
+			],
+			[
+				"tickets_c",
+				"app/controllers/api/tickets_controller.rb"
+			],
+			[
+				"pricing.",
+				"app/views/pages/pricing.html.erb"
+			],
+			[
+				"reminder",
+				"app/jobs/email_reminders_job.rb"
+			],
+			[
+				"all",
+				"app/views/feature/all.html.erb"
+			],
+			[
+				"analyt",
+				"app/views/feature/analytics.html.erb"
+			],
+			[
+				"themes",
+				"app/views/feature/themes.html.erb"
+			],
+			[
+				"layouts/he",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"pages.",
+				"app/assets/javascripts/pages.js.erb"
+			],
+			[
+				"application.ht",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"analyti",
+				"app/views/feature/analytics.html.erb"
+			],
+			[
+				"pages.js",
+				"app/assets/javascripts/pages.js.erb"
+			],
+			[
+				"analytic",
+				"app/views/feature/analytics.html.erb"
+			],
+			[
+				"mob",
+				"app/views/feature/mobile.html.erb"
+			],
+			[
+				"all.h",
+				"app/views/feature/all.html.erb"
+			],
+			[
+				"sign_",
+				"app/views/layouts/_signup_hero_header.html.erb"
+			],
+			[
+				"basic-",
+				"app/themes/basic-four/views/layouts/basic-four.html.erb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"helper",
+				"spec/rails_helper.rb"
+			],
+			[
+				"foundation",
+				"app/assets/stylesheets/foundation_and_overrides.scss"
+			],
+			[
+				"users.cs",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"application.",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"home.",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"colors",
+				"app/assets/stylesheets/colors.css.scss"
+			],
+			[
+				"groups",
+				"db/migrate/20151023232931_create_groups.rb"
+			],
+			[
+				"all.html",
+				"app/views/feature/all.html.erb"
+			],
+			[
+				"feature",
+				"app/controllers/feature_controller.rb"
+			],
+			[
+				"ordercontroll",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"basic.h",
+				"app/themes/basic/views/layouts/basic.html.erb"
+			],
+			[
+				"ordersjson",
+				"app/views/api/orders/index.json.jbuilder"
+			],
+			[
+				"ordersshow.json",
+				"app/views/api/orders/show.json.jbuilder"
+			],
+			[
+				"ordshow",
+				"app/views/orders/show.html.erb"
+			],
+			[
+				"participanindex.",
+				"app/views/api/participants/index.json.jbuilder"
+			],
+			[
+				"participantsshow",
+				"app/views/api/participants/show.json.jbuilder"
+			],
+			[
+				"participants/",
+				"app/views/api/participants/index.json.jbuilder"
+			],
+			[
+				"participashow.json",
+				"app/views/api/participants/show.json.jbuilder"
+			],
+			[
+				"order",
+				"app/models/order.rb"
+			],
+			[
+				"show.json.",
+				"app/views/api/orders/show.json.jbuilder"
+			],
+			[
+				"discount",
+				"app/controllers/api/discount_codes_controller.rb"
+			],
+			[
+				"events_cont",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"show",
+				"app/views/events/show.html.erb"
+			],
+			[
+				"index",
+				"app/views/events/index.html.erb"
+			],
+			[
+				"indexhtml",
+				"app/views/businesses/index.html.erb"
+			],
+			[
+				"send_reminder",
+				"app/views/participant_mailer/send_reminder.html.erb"
+			],
+			[
+				"router",
+				"config/routes.rb"
+			],
+			[
+				"404",
+				"public/404.html"
+			],
+			[
+				"mailer",
+				"app/views/layouts/mailer.html.erb"
+			],
+			[
+				"participant",
+				"app/mailers/participant_mailer.rb"
+			],
+			[
+				"orderindex",
+				"app/views/api/orders/index.json.jbuilder"
+			],
+			[
+				"event.",
+				"app/models/event.rb"
+			],
+			[
+				"checki",
+				"app/controllers/api/check_in_controller.rb"
+			],
+			[
+				"partipant",
+				"app/controllers/participants_controller.rb"
+			],
+			[
+				"orderjson",
+				"app/views/api/orders/index.json.jbuilder"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"eventscontroller",
+				"app/controllers/api/events_controller.rb"
+			],
+			[
+				"showjson",
+				"app/views/api/events/show.json.jbuilder"
+			],
+			[
+				"event.rb",
+				"app/models/event.rb"
+			],
+			[
+				"step_two",
+				"app/views/api/events/step_two.json.jbuilder"
+			],
+			[
+				"all.css",
+				"app/themes/basic-four/assets/stylesheets/basic-four/all.css.scss"
+			],
+			[
+				"basic-four",
+				"app/themes/basic-four/views/layouts/basic-four.html.erb"
+			],
+			[
+				"basic-threecss",
+				"app/themes/basic-three/assets/stylesheets/basic-three/all.css.scss"
+			],
+			[
+				"event_ti",
+				"app/models/event_ticket.rb"
+			],
+			[
+				"roues",
+				"config/routes.rb"
+			],
+			[
+				"events_contro",
+				"app/controllers/events_controller.rb"
+			],
+			[
+				"step",
+				"app/views/api/events/step_one.json.jbuilder"
+			],
+			[
+				"app/views/api/events/index.json.jbuilder",
+				"app/views/api/events/index.json.jbuilder"
+			],
+			[
+				"mailer_clean",
+				"app/views/layouts/mailer_clean.html.erb"
+			],
+			[
+				"order_summary",
+				"app/views/order_mailer/order_summary.html.erb"
+			],
+			[
+				"order_confir",
+				"app/views/order_mailer/order_confirmation.html.erb"
+			],
+			[
+				"send_full",
+				"app/views/time_report_mailer/send_full_report_clean.html.erb"
+			],
+			[
+				"",
+				"app/views/order_mailer/order_summary.html.erb"
+			],
+			[
+				"full_",
+				"app/views/time_report_mailer/send_full_report.html.erb"
+			],
+			[
+				"time_repo",
+				"app/mailers/time_report_mailer.rb"
+			],
+			[
+				"mailer.html",
+				"app/views/layouts/mailer.html.erb"
+			],
+			[
+				"order_confirm",
+				"app/views/order_mailer/order_confirmation_clean.html.erb"
+			],
+			[
+				"order_summ",
+				"app/views/order_mailer/order_summary.html.erb copy"
+			],
+			[
+				"ordersum",
+				"app/views/order_mailer/order_summary.html.erb"
+			],
+			[
+				"order_mailer",
+				"app/mailers/order_mailer.rb"
+			],
+			[
+				"eventsindexjson",
+				"app/views/api/events/index.json.jbuilder"
+			],
+			[
+				"reminder_mailercl",
+				"app/views/reminder_mailer/send_reminder_clean.html.erb"
+			],
+			[
+				"send_reminde",
+				"app/views/reminder_mailer/send_reminder_clean.html.erb"
+			],
+			[
+				"clean",
+				"app/views/staff_mailer/password_reset_clean.html.erb"
+			],
+			[
+				"send_remin",
+				"app/views/reminder_mailer/send_reminder.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true
+}

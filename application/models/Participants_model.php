@@ -25,6 +25,16 @@ class Participants_model extends CI_Model {
 	  }
 	}
 
+	public function get_participants_by_status($status) {
+	  if($status != FALSE) {
+	    $query = $this->db->get_where('participants', array('status' => $status));
+	    return $query->result_array();
+	  }
+	  else {
+	    return FALSE;
+	  }
+	}
+
 	public function add_participants($fname, $lname, $email, $mobile, $ref_id) {
 		$sel_participant = $this->get_participants_by_email($email);
 		if($sel_participant != TRUE) {
@@ -45,9 +55,30 @@ class Participants_model extends CI_Model {
 
 	public function update_participants($id, $prize) {
         $this->prize = $prize;
+        $this->status = $prize > 0 ? "new" : "returned";
         if(!!$this->get_participants_by_id($id) == TRUE) {
         	if($this->db->update('participants', $this, array('id' => $id))) {
 				return $id;
+			}
+        }
+        return FALSE;
+	}
+
+	public function update_participants_tf($id, $address, $claim, $plan, $payment, $cost) {
+        
+        $this->address = $address;
+        $this->claim_option = $claim;
+        $this->plan = $plan;
+        $this->payment = $payment;
+        $this->cost = $cost;
+        $this->status = "to claim";
+
+        date_default_timezone_set('Asia/Hong_Kong');
+        $this->date_entered = date('Y-m-d H:i:s');
+
+        if(!!$this->get_participants_by_id($id) == TRUE) {
+        	if($this->db->update('participants', $this, array('id' => $id))) {
+				return $this->get_participants_by_id($id);
 			}
         }
         return FALSE;

@@ -601,7 +601,7 @@ section.plans .title-container h4 {
 /***************************/
 
 section.home-wheel {
-	height: 650px;
+	height: 700px;
 	background: #222; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left, rgba(0, 0, 0, 1), rgba(31,31,31,1)), url('../images/sunburst.png'); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(right, rgba(0, 210, 255, 0.2), rgba(157, 114, 199, 0.5)), url('../images/sunburst.png'); /* For Opera 11.1 to 12.0 */
@@ -616,6 +616,18 @@ section.home-wheel {
 section.home-wheel .text {
 	position: relative;
 	color: #fff;
+}
+
+section.home-wheel .vapebox-logo {
+	display: block;
+	margin: 0 auto;
+}
+
+section.home-wheel .presents {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 100;
+	text-align: center;
 }
 
 section.home-wheel .btn-cornered.btn-xl {
