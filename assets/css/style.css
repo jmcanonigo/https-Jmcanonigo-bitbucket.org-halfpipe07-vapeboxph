@@ -370,11 +370,6 @@ header {
     bottom: 15px;
 }
 
-.dropdown-menu.dropdown-check {
-  visibility: hidden;
-  display: block;
-}
-
 /***************************/
 /********** Home ***********/
 /***************************/
@@ -523,6 +518,20 @@ section.home-brands h2 {
 /********* Product *********/
 /***************************/
 
+.product > div {
+	padding-left: 0;
+}
+
+.product-item {
+	padding: 0;
+	background: #fff;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.13);
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	height: 440px;
+    position: relative;
+}
+
 .product-item .product-image {
     position: relative;
 }
@@ -606,6 +615,10 @@ section.home-brands h2 {
     width: 100%;
 }
 
+.nic-level span.nostock {
+	color: #aeaeae;
+}
+
 .product-item h5 {
 	clear: both;
     margin-top: 10px;
@@ -648,8 +661,15 @@ section.home-brands h2 {
 	width: 100%;
 }
 
+.product-item .btn-cart-container {
+	position: absolute;
+    bottom: 10px;
+	width: 90%;
+}
+
 .product-item .btn-cart,
-.product-item .btn-cart:hover {
+.product-item .btn-cart:hover,
+.product-item .btn-group.closed .btn-cart:hover {
 	background: #593EFC;
 	border: 2px solid #593EFC;
 	color: #fff;
@@ -663,6 +683,130 @@ section.home-brands h2 {
     color: #593EFC;
 }
 
+.product-item .product-details {
+	padding: 10px;
+}
+
+
+/***************************/
+/******** Category *********/
+/***************************/
+
+.breadcrumbs {
+	background: #e5e5e5;
+    padding: 10px 0;
+}
+
+.breadcrumbs span {
+	padding: 5px;
+}
+
+.sort-bar {
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,.13);
+    border-radius: 2px;
+    overflow: hidden;
+    overflow: visible;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 50px;
+    margin-bottom: 25px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.sort-item {
+	text-decoration: none;
+    display: block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    line-height: 50px;
+    line-height: 5rem;
+    height: 50px;
+    height: 5rem;
+    color: rgba(0,0,0,.8);
+    text-transform: uppercase;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    border-right: 1px solid #eee;
+}
+
+.sort-item.active {
+	border-bottom: 5px solid #3B3E52;
+}
+
+.sort-item:hover {
+	background: #eee;
+}
+
+section.shop .block {
+	margin-bottom: 30px;
+}
+
+.block-title {
+	text-transform: uppercase;
+    border-bottom: 1px solid #ddd;
+    color: #f39c12;
+    font-family: 'League Spartan', 'Arial', sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.block-selection li {
+	padding: 5px;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.block-selection li.active {
+	background: #f39c12;
+}
+
+.block-selection li.active a {
+	color: #fff;
+}
+
+.block-selection li a {
+	color: #333;
+	display: block;
+}
+
+.block-selection li:hover {
+	background: #d5d5d5;
+}
+
+.block-selection label {
+	font-weight: 300;
+	width: 100%;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+.block-selection label span {
+	margin-left: 6px;
+}
+
+.list-nicotine li.checked label,
+.list-brands li.checked label {
+	font-weight: 700;
+}
+
+.block-filter {
+	position: relative;
+	margin-bottom: 10px;
+}
+
+.block-filter .fa {
+	position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #999;
+}
 
 /***************************/
 /********* Contact *********/
@@ -726,9 +870,15 @@ footer .socials li a:hover {
 /***************************/
 
 @media (max-width: 767px) {
+	.product-item {
+		height: 450px;
+	}
 
 }
 @media (min-width: 768px) and (max-width: 991px) {
+	.product-item {
+		height: 450px;
+	}
 
 }
 @media (min-width: 992px) and (max-width: 1199px) {

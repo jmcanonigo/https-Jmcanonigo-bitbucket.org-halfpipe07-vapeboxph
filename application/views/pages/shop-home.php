@@ -143,14 +143,13 @@
 		            </div>
 		        </div>
 
-
 			</div>
 		</div>
 	</div>	
 	<div class="row text-center m-t-sm">         
 		<a href="#" class="btn btn-yellow">View More</a>
 	</div>
-	
+
 	<hr />
 	<div class="row title-container">
 		<div class="col-xs-12 col-md-3 col-md-offset-1">
