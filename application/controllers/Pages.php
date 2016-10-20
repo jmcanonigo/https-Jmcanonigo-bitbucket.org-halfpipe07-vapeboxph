@@ -32,6 +32,10 @@ class Pages extends CI_Controller {
         	$this->load->view('templates/header-base', $data);
         	$this->load->view('pages/'.$page, $data);
         	$this->load->view('templates/footer-base', $data);
+        } else if(substr($page,0,4) == 'shop') {
+        	$this->load->view('templates/header-shop', $data);
+        	$this->load->view('pages/'.$page, $data);
+        	$this->load->view('templates/footer-shop', $data);
         } else {
 	        $this->load->view('templates/header', $data);
 	        $this->load->view('pages/'.$page, $data);

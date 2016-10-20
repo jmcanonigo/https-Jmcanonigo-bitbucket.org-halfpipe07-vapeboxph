@@ -122,6 +122,10 @@
 			<!-- <div class="col-xs-6 col-sm-4 col-md-2 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/good-sht.jpg"); ?>" class="img-responsive text-center" alt="Good Sh*t" /></div> -->
 			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/lazy-bastards.png"); ?>" class="img-responsive text-center" alt="Equilibrijuz" /></div>
 			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/pure-drops.jpg"); ?>" class="img-responsive text-center" alt="Pure Drops" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/juans-juice.png"); ?>" class="img-responsive text-center" alt="Juan's Juice" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/se7en.png"); ?>" class="img-responsive text-center" alt="Se7en" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/malibu.png"); ?>" class="img-responsive text-center" alt="Malibu" /></div>
+			<div class="col-xs-6 col-sm-4 col-md-3 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/king-david.png"); ?>" class="img-responsive text-center" alt=" King David" /></div>
 			<!-- <div class="col-xs-6 col-sm-4 col-md-2 m-b-xs"><img src="<?php echo base_url("assets/images/suppliers/adics-burn.jpg"); ?>" class="img-responsive text-center" alt="Adic's Burn" /></div> -->
 		</div>
 	</div>
