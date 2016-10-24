@@ -82,12 +82,12 @@
 			<h4>Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</h4>
 		</div>
 		<div class="col-xs-12 col-sm-5">
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
-			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="http://www.placehold.it/150x150" class="img-circle" alt="Flavor 1"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-fruits.png"); ?>" class="img-circle" alt="Fruits"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-candy.png"); ?>" class="img-circle" alt="Candy"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-desserts.png"); ?>" class="img-circle" alt="Desserts"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-drinks.png"); ?>" class="img-circle" alt="Drinks"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-menthol.png"); ?>" class="img-circle" alt="Menthol"></div>
+			<div class="col-xs-6 col-sm-4 m-t-xs"><img src="<?php echo base_url("assets/images/vapeshop/cat-tobacco.png"); ?>" class="img-circle" alt="Tobacco"></div>
 		</div>
 	</div>
 </section>
@@ -102,52 +102,55 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-10 col-md-offset-1">
 			<div class="product-item col-xs-6 col-sm-4 col-md-3 col-lg-2">
-			    <div align="center" class="product-image">
-			    	<a href="#" class="btn btn-wishlist"><i class="fa fa-heart"></i></a>
-			        <a href="#">
-			        	<img alt="Meteor Milk High VG eLiquid by Space Jam"
-			        class="img-responsive" src="http://www.placehold.it/200x250">
-			    	</a>
-			        <div class="vgmixbar">
-			            <div class="vg" title="70% Vegetable Glycerin">70% VG</div>
-			        </div>
-			    </div>
-			    <div class="ejuice-chart clearfix">
-			        <div class="bottle-size" title="15, 30ml Bottle Size">
-			            15, 30ml
-			        </div>
-			        <div class="nic-level">
-			            <span title="0mg Nicotine In Stock">0</span> <span title=
-			            "3mg Nicotine In Stock">3</span> <span title=
-			            "6mg Nicotine In Stock">6</span> <span title=
-			            "12mg Nicotine In Stock">12</span>
-			        </div>
-			    </div>
-			    <h5><a href="/space-jam-eliquid/meteor-milk-eliquid-by-space-jam.html">Meteor Milk High VG eLiquid by Space Jam</a></h5>
-			    <div class="text-muted flavor-notes">
-			        <small>Strawberry Ice Cream, Strawberry Syrup</small>
-			    </div>
-			    <div class="product-price">
-		            <span>From</span> ₱ 350
-		        </div>
-		        <div class="btn-cart-container">
-			        <div class="btn-group pull-right closed">                    
-		 				<button type="button" class="btn btn-cart dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Add to Cart <span class="caret"></span></button>
-		                <ul class="dropdown-menu pull-right" role="menu">
-		                    <li>30ml / 0mg - ₱300</li>
-		                    <li>30ml / 3mg - ₱300</li>
-		                    <li>30ml / 6mg - ₱300</li>
-		                    <li>30ml / 0mg - ₱300</li>
-		                    <li>60ml / 3mg - ₱500</li>
-		                </ul>
-		            </div>
-		        </div>
-
+				<div class="product-item">
+					<div align="center" class="product-image">
+				    	<a href="#" class="btn btn-wishlist"><i class="fa fa-heart"></i></a>
+				        <a href="#">
+				        	<img alt="Meteor Milk High VG eLiquid by Space Jam"
+				        class="img-responsive" src="http://www.placehold.it/200x250">
+				    	</a>
+				        <div class="vgmixbar">
+				            <div class="vg" title="70% Vegetable Glycerin">70% VG</div>
+				        </div>
+				    </div>
+				    <div class="ejuice-chart clearfix">
+				        <div class="bottle-size" title="15, 30ml Bottle Size">
+				            15, 30ml
+				        </div>
+				        <div class="nic-level">
+				            <span title="0mg Nicotine In Stock" class="nostock">0</span>
+				            <span title="3mg Nicotine In Stock">3</span>
+				            <span title="6mg Nicotine In Stock">6</span>
+				            <span title="12mg Nicotine In Stock">12</span>
+				        </div>
+				    </div>
+				    <div class="product-details">
+				    	<h5><a href="/space-jam-eliquid/meteor-milk-eliquid-by-space-jam.html">Meteor Milk High VG eLiquid by Space Jam</a></h5>
+					    <div class="text-muted flavor-notes">
+					        <small>Strawberry Ice Cream, Strawberry Syrup</small>
+					    </div>
+					    <div class="product-price">
+				            <span>From</span> ₱ 350
+				        </div>
+				        <div class="btn-cart-container clearfix">
+					        <div class="btn-group pull-right closed">                    
+				 				<button type="button" class="btn btn-cart dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Add to Cart <span class="caret"></span></button>
+				                <ul class="dropdown-menu pull-right" role="menu">
+				                    <li>30ml / 0mg - ₱300</li>
+				                    <li>30ml / 3mg - ₱300</li>
+				                    <li>30ml / 6mg - ₱300</li>
+				                    <li>30ml / 0mg - ₱300</li>
+				                    <li>60ml / 3mg - ₱500</li>
+				                </ul>
+				            </div>
+				        </div>
+				    </div>
+				</div>
 			</div>
 		</div>
 	</div>	
 	<div class="row text-center m-t-sm">         
-		<a href="#" class="btn btn-yellow">View More</a>
+		<a href="#" class="btn btn-yellow">View More E-Juices</a>
 	</div>
 
 	<hr />
@@ -160,26 +163,28 @@
 	<div class="row">
 		<div class="col-xs-12 col-md-10 col-md-offset-1">
 			<div class="product-item col-xs-6 col-sm-4 col-md-3 col-lg-2">
-			    <div align="center" class="product-image">
-			        <a href="#">
-			        	<img alt="Meteor Milk High VG eLiquid by Space Jam"
-			        class="img-responsive" src="http://www.placehold.it/200x250">
-			    	</a>
-			    </div>
-			    <h5><a href="/space-jam-eliquid/meteor-milk-eliquid-by-space-jam.html">Meteor Milk High VG eLiquid by Space Jam</a></h5>	    
-		        <div class="product-price">₱ 3,500</div>
-
-		        <div class="btn-cart-container">
-			        <div class="btn-group pull-right closed">                    
-		 				<button type="button" class="btn btn-cart dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Add to Cart</button>
-		            </div>
-		        </div>
+				<div class="product-item">
+					<div align="center" class="product-image">
+				    	<a href="#" class="btn btn-wishlist"><i class="fa fa-heart"></i></a>
+				        <a href="#">
+				        	<img alt="Meteor Milk High VG eLiquid by Space Jam"
+				        class="img-responsive" src="http://www.placehold.it/200x250">
+				    	</a>
+				    </div>
+				    <div class="product-details">
+				    	<h5><a href="/space-jam-eliquid/meteor-milk-eliquid-by-space-jam.html">Meteor Milk High VG eLiquid by Space Jam</a></h5>
+					    <div class="product-price">₱ 4,200</div>
+				        <div class="btn-cart-container no-dropdown clearfix">
+				        	<button type="button" class="btn btn-cart">Add to Cart</button>
+				        </div>
+				    </div>
+				</div>
 
 			</div>
 		</div>
 	</div>
 	<div class="row text-center m-t-sm">         
-		<a href="#" class="btn btn-yellow">View More</a>
+		<a href="#" class="btn btn-yellow">View More Mods</a>
 	</div>
 
 </section>

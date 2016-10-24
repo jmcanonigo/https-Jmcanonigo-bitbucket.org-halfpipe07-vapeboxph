@@ -126,7 +126,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			<div id="midnav" class="row">
 				<div class="brand col-xs-12 col-md-3">
-					<a href="http://www.vapebox.ph"><img src="<?php echo base_url("assets/images/vapebox-logo-colored.png"); ?>" class="logo" alt="VapeBox PH Logo" /></a>
+					<a href="http://www.vapebox.ph"><img src="<?php echo base_url("assets/images/vapeshop/vapebox-logo-colored.png"); ?>" class="logo" alt="VapeBox PH Logo" /></a>
 				</div>
 				<div class="search-container col-xs-12 col-md-6 m-t-xs">
 					<div class="search-bar">

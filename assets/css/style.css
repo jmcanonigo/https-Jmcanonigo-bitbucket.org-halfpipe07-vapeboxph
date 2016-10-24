@@ -496,6 +496,10 @@ section.home-shop .title-container {
 	padding: 30px 0 20px 15px;
 }
 
+section.home-shop .title-container > div {
+	padding-left: 0;
+}
+
 section.home-shop hr {
 	margin-top: 30px;
     border: 1px solid #ddd;
@@ -583,7 +587,7 @@ section.home-brands h2 {
 }
 
 .bottle-size {
-    background: #f39c12;
+    background: #3a7bd5;
     color: #fff;
     display: inline-block;
     float: left;
@@ -669,22 +673,98 @@ section.home-brands h2 {
 
 .product-item .btn-cart,
 .product-item .btn-cart:hover,
+.product-item .btn-cart-container.no-dropdown .btn-cart:hover,
 .product-item .btn-group.closed .btn-cart:hover {
-	background: #593EFC;
-	border: 2px solid #593EFC;
+	background: #f39c12;
+	border: 2px solid #f39c12;
 	color: #fff;
 	border-radius: 5px;
     width: 100%;
     margin-top: 5px;
 }
 
+.product-item .btn-cart-container.no-dropdown .btn-cart,
 .product-item .btn-group.closed .btn-cart {
     background: none;
-    color: #593EFC;
+    color: #f39c12;
 }
 
 .product-item .product-details {
 	padding: 10px;
+}
+
+/***************************/
+/********* Sidebar *********/
+/***************************/
+
+#sidebar .block {
+	margin-bottom: 30px;
+}
+
+#sidebar .block-title {
+	text-transform: uppercase;
+    border-bottom: 1px solid #ddd;
+    color: #f39c12;
+    font-family: 'League Spartan', 'Arial', sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+#sidebar .block-selection li {
+	padding: 5px;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#sidebar .block-selection li.active {
+	background: #f39c12;
+}
+
+#sidebar .block-selection li.active a {
+	color: #fff;
+}
+
+#sidebar .block-selection li a {
+	color: #333;
+	display: block;
+}
+
+#sidebar .block-selection li:hover {
+	background: #d5d5d5;
+}
+
+#sidebar .block-selection label {
+	font-weight: 300;
+	width: 100%;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+
+#sidebar .block-selection label span {
+	margin-left: 6px;
+}
+
+.list-nicotine li.checked,
+.list-brands li.checked {
+	background: #ddd;
+}
+
+.list-nicotine li.checked label,
+.list-brands li.checked label {
+	font-weight: 700;
+}
+
+#sidebar .block-filter {
+	position: relative;
+	margin-bottom: 10px;
+}
+
+#sidebar .block-filter .fa {
+	position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #999;
 }
 
 
@@ -743,84 +823,149 @@ section.home-brands h2 {
 	background: #eee;
 }
 
-section.shop .block {
-	margin-bottom: 30px;
+/***************************/
+/********* Product *********/
+/***************************/
+
+.product-page .nic-level,
+.product-page .bottle-size {
+	font-size: 100%;
 }
 
-.block-title {
-	text-transform: uppercase;
-    border-bottom: 1px solid #ddd;
-    color: #f39c12;
-    font-family: 'League Spartan', 'Arial', sans-serif;
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-
-.block-selection li {
-	padding: 5px;
+.product-panel {
+    background: #fff;
+    padding: 30px;
     border-radius: 5px;
-    margin-top: 2px;
-    margin-bottom: 2px;
+    box-shadow: 0 10px 20px rgba(0,0,0,.19),0 6px 6px rgba(0,0,0,.23);
 }
 
-.block-selection li.active {
-	background: #f39c12;
+.product-panel .product-title,
+.product-panel .product-brand {
+	text-transform: uppercase;
 }
 
-.block-selection li.active a {
+.product-panel .product-brand h3 {
+	margin-top: 0;
+}
+
+.product-panel .product-wishlist .btn-wishlist {
+	border-radius: 5px;
+    padding: 5px 10px 3px;
+    font-size: 12px;
+    background: none;
+    color: #aeaeae;
+    border: 2px solid #aeaeae;
+    margin-top: 15px;
+}
+
+.product-panel .product-wishlist .btn-wishlist:hover {
 	color: #fff;
+	background: #aeaeae;
 }
 
-.block-selection li a {
-	color: #333;
-	display: block;
+.product-panel .product-options {
+	padding: 0;
+    border-top: 1px solid #ddd;
 }
 
-.block-selection li:hover {
-	background: #d5d5d5;
-}
-
-.block-selection label {
-	font-weight: 300;
-	width: 100%;
-    margin-bottom: 0;
+.product-panel .list-product-options label {
+	font-weight: 400;
+    padding: 5px 0 0;
     cursor: pointer;
 }
 
-.block-selection label span {
-	margin-left: 6px;
+.product-panel .prod-description {
+	margin-top: 30px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
 }
 
-.list-nicotine li.checked label,
-.list-brands li.checked label {
+.product-panel .list-product-options input[type="radio"] {
+	margin-right: 5px;
+}
+
+.product-panel .btn-cart-container {
+	margin-top: 30px;
+}
+
+.product-panel .btn-cart-container select {
+	-webkit-appearance: none;
+	-webkit-border-radius: 0px;
+	border-radius: 0;
+	background: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='24' height='24' viewBox='0 0 24 24'><path fill='#444' d='M7.406 7.828l4.594 4.594 4.594-4.594 1.406 1.406-6 6-6-6z'></path></svg>");
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    height: 39px;
+}
+
+.product-panel .btn-cart-container .input-group-btn {
+	font-size: 16px;
+}
+
+.product-panel .btn-cart-container .input-group .btn {
+	border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: #f39c12;
+}
+
+.product-panel .btn-cart-container .input-group .btn:hover {
+	background: #e08e0b;
+}
+
+.product-panel .ejuice-details td {
+	vertical-align: top;
+    padding: 2px 5px;
+}
+
+.product-panel .ejuice-details tr > td:first-child {
 	font-weight: 700;
+    width: 40%;
+    text-align: right;
 }
 
-.block-filter {
-	position: relative;
-	margin-bottom: 10px;
+.product-panel .price {
+	color: #d33;
 }
 
-.block-filter .fa {
-	position: absolute;
-    right: 10px;
-    top: 10px;
-    color: #999;
+.product-panel .product-dispatch dd {
+	margin-left: 17px;
 }
-
-/***************************/
-/********* Contact *********/
-/***************************/
-
+.product-panel .product-dispatch dt {
+	color: #1abc9c;
+	margin-top: 10px;
+}
 
 /***************************/
 /********* Footer **********/
 /***************************/
 
 footer {
-	background: #3B3E52;
-	padding-top: 50px;
+	background: #fff;
+	border-top: 5px solid #3B3E52;
+	padding-top: 20px;
 	color: #fff;
+}
+
+.footer-features {
+	border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.footer-features .fa {
+	color: #3B3E52;
+}
+
+.footer-features h4 {
+	color: #222;
+	font-weight: 700;
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+
+.footer-features p {
+	color: #999;
+	margin-left: 0;
 }
 
 .footer-logo {
@@ -829,13 +974,21 @@ footer {
 }
 
 footer p, footer ul {
-	color: #8186a5;
+	color: #333;
     margin-left: 10px;
 }
 
-footer .contacts li a,
+footer a {
+	color: #999;
+}
+
+footer a:hover {
+	color: #333;
+	text-decoration: underline;
+}
+
 footer .contacts li {
-	color: #9094af;
+	color: #333;
 }
 
 footer .contacts li a:hover {
@@ -859,10 +1012,35 @@ footer .socials li a:hover {
 	background: #5b607e;
 }
 
+.footer-pages h4 {
+	color: #333;
+}
+
+.footer-pages ul {
+	margin-left: 0;
+}
+
+.footer-payments {
+	color: #333;
+    padding: 20px 0;
+}
+
+.footer-payments > div {
+	border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
 .footer-copyright {
-	background: #303343;
+	border-top: 1px solid #ddd;
     padding-top: 10px;
-    margin-top: 30px;
+    margin-top: 10px;
+}
+
+footer .list-payments img,
+footer .list-delivery img {
+	border-radius: 2px;
+    box-shadow: 2px 2px 5px #ddd;
+    width: 60px;
 }
 
 /***************************/
